@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/sabnadk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sabnadk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabnadk&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/maidyjoshi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maidyjoshi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maidyjoshi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
